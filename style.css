@@ -6,6 +6,7 @@ body {
   background-attachment: fixed;
   background-size: contain;
   position: relative;
+  height: 100%;
 }
 
 h1 {
